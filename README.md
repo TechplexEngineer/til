@@ -8,3 +8,12 @@ warrant a full blog post. These are things I've picked up by [Learning In Public
 
 ---
 
+---
+## Other notable TIL sources
+https://github.com/jbranchaud/til/
+https://github.com/simonw/til -- https://til.simonwillison.net/
+https://github.com/kinoute/til
+https://github.com/tommchenry/til
+https://github.com/papaux/til -- https://papaux.github.io/til
+https://github.com/Kapott/til
+https://github.com/campegg/til
