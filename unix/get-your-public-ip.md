@@ -1,4 +1,4 @@
-# Figure Out Your Public IP Address
+# Get Your Public IP Address
 
 Want to know what your public IP address is?
 
