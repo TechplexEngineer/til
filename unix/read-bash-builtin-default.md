@@ -1,4 +1,4 @@
-Bash builtin read default value
+read (Bash builtin) default value
 ===============================
 
 Often when writing a script, one needs to prompt the user. Bash has a builtin called `read` for this very purpose.
