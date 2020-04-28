@@ -53,3 +53,7 @@ https://github.com/chubin/cheat.sh#command-line-client-chtsh
 https://github.com/chubin/cheat.sh#editors-integration
 
 Src: [kinoute/til/unix](https://github.com/kinoute/til/blob/master/unix/get-a-cheatsheet-for-every-unix-command-from-terminal.md)
+
+
+Another great source for shell snippets:
+https://tldr.ostera.io/
